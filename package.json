@@ -1,5 +1,5 @@
 {
-  "name": "activebook-main",
+  "name": "active-book-website",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -80,12 +80,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KrimsonKing1337/react-boilerplate.git"
+    "url": "git+https://github.com/KrimsonKing1337/active-book-website.git"
   },
   "author": "Oleg Shilov Jr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KrimsonKing1337/react-boilerplate/issues"
+    "url": "https://github.com/KrimsonKing1337/active-book-website/issues"
   },
-  "homepage": "https://github.com/KrimsonKing1337/react-boilerplate#readme"
+  "homepage": "https://github.com/KrimsonKing1337/active-book-website#readme",
+  "private": true
 }
